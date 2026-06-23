@@ -1,0 +1,6 @@
+{
+  "name": "Исламская Медицина - Лечение по Сунне",
+  "description": "Одностраничный лендинг лекаря исламской медицины. Запись на лечение аятами Корана (Рукъя) и травами по сунне.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
