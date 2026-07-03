@@ -30,7 +30,7 @@ export function Hero() {
             className="text-4xl sm:text-5xl lg:text-7xl font-sans font-bold text-emerald-900 leading-tight mb-6 tracking-tight text-center"
           >
             Исцеление души и тела <br className="hidden sm:block"/>
-            <span className="text-amber-500">дозволенными путями</span>
+            <span className="text-amber-500">дозволенными методами!</span>
           </motion.h1>
           
           <motion.p
